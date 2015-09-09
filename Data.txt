@@ -1,0 +1,4 @@
+John Smith;23000
+Kate Bush;45999
+Bill Cullen;19500
+Lisa Stansfield;18773
